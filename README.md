@@ -3,7 +3,7 @@
 ## How to run the REST API
 Get this project from Github
 ``` 
-git clone 
+git clone https://github.com/khunshan97/green3b_assessment
  
 ```
 
